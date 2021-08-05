@@ -1,7 +1,8 @@
-import logo from './logo.svg';
+
 import './App.css';
 import AddItem from './components/AddItem'
 import List from './components/List'
+
 function App() {
   return (
     <div className="App">
